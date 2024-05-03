@@ -1,4 +1,4 @@
-
+//This is to make the digital piano operational
 
 function playSound(note){
 
